@@ -12,6 +12,7 @@
 ####  1.1 key milestones in the spread of the COVID-19 pandemic in Chicago
 
           ->  January 24, 2020: City of Chicago Announces First Local Patient with Travel-Related Case of 2019 Novel Coronavirus
+          ->  March 6, 2020: Public Health and Chicago Public Schools Officials Announce New Presumptive Positive Case of Coronavirus Disease 2019
           ->  March 9, 2020: Public Health Officials Report Four Additional COVID-19 Cases in Illinois 
           ->  March 13, 2020: City of Chicago Prepares for Closure of all K-12 Schools, as Mandated by the State of Illinois
           ->  March 17, 2020: Public Health Officials Announce First Illinois Coronavirus Disease Death
@@ -26,6 +27,7 @@
           ->  February 10, 2021: Mayor Lightfoot Announces Roadmap for Further Easing of COVID-19 Regulations
           ->  April 29, 2021: Mayor Lightfoot Announces the Launch of “Open Chicago”
           ->  December 21, 2021: City of Chicago Announces Vaccine Requirements for Restaurants, Bars, Gyms, and Other Indoor Public Places
+          ->  
       
-     
+![image](https://github.com/EisenHanhan/semesterarbeit/blob/main/IMG/OD_demand_early.png)
 #### 1.2 
