@@ -30,6 +30,7 @@
           ->  
       
 ![image](https://github.com/EisenHanhan/semesterarbeit/blob/main/IMG/OD_demand_2020.png)
+![image](https://github.com/EisenHanhan/semesterarbeit/blob/main/IMG/OD_demand_2019.png)
 ![image](https://github.com/EisenHanhan/semesterarbeit/blob/main/IMG/OD_demand_Recovery.png)
 ![image](https://github.com/EisenHanhan/semesterarbeit/blob/main/IMG/OD_demand_early.png)
 ![image](https://github.com/EisenHanhan/semesterarbeit/blob/main/IMG/Event_recovery_process.png)
