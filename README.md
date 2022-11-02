@@ -29,5 +29,8 @@
           ->  December 21, 2021: City of Chicago Announces Vaccine Requirements for Restaurants, Bars, Gyms, and Other Indoor Public Places
           ->  
       
+![image](https://github.com/EisenHanhan/semesterarbeit/blob/main/IMG/OD_demand_2020.png)
+![image](https://github.com/EisenHanhan/semesterarbeit/blob/main/IMG/OD_demand_Recovery.png)
 ![image](https://github.com/EisenHanhan/semesterarbeit/blob/main/IMG/OD_demand_early.png)
+![image](https://github.com/EisenHanhan/semesterarbeit/blob/main/IMG/Event_recovery_process.png)
 #### 1.2 
