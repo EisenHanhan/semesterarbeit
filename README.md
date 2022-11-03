@@ -28,10 +28,18 @@
           ->  April 29, 2021: Mayor Lightfoot Announces the Launch of “Open Chicago”
           ->  December 21, 2021: City of Chicago Announces Vaccine Requirements for Restaurants, Bars, Gyms, and Other Indoor Public Places
           ->  
-      
+
+#### 1.2 Diagram about the OD demand of City Chicago
 ![image](https://github.com/EisenHanhan/semesterarbeit/blob/main/IMG/OD_demand_2020.png)
 ![image](https://github.com/EisenHanhan/semesterarbeit/blob/main/IMG/OD_demand_2019.png)
 ![image](https://github.com/EisenHanhan/semesterarbeit/blob/main/IMG/OD_demand_Recovery.png)
 ![image](https://github.com/EisenHanhan/semesterarbeit/blob/main/IMG/OD_demand_early.png)
 ![image](https://github.com/EisenHanhan/semesterarbeit/blob/main/IMG/Event_recovery_process.png)
-#### 1.2 
+ 
+###   2. Clustering
+
+####  2.1 Methods
+
+#####  2.1.1 Dynamic Time Warping, DTW
+
+#####  2.1.2 LB Keogh Distance
