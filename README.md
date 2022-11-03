@@ -41,7 +41,8 @@
 ####  2.1 Methods
 
 #####  2.1.1 Dynamic Time Warping, DTW
-
+![image](https://github.com/EisenHanhan/semesterarbeit/blob/main/IMG/Dynamic%20Time%20Warping.png)
+![image](https://github.com/EisenHanhan/semesterarbeit/blob/main/IMG/DTW.png)
 #####  2.1.2 LB Keogh Distance
 LB_Keogh is tool for lower bounding various time series distance measures. It was introduced in 2002 as the first non trivial lower bound for Dynamic Time Warping (DTW), and it is still the fastest known technique for indexing DTW.
 ![image](https://github.com/EisenHanhan/semesterarbeit/blob/main/IMG/LB_Keogh.png)
